@@ -1,5 +1,9 @@
 # Practical AI for Professionals - One Day Masterclass
 
+<!-- BADGES:START -->
+[![exec-ed](https://img.shields.io/badge/-exec--ed-673ab7?style=flat-square)](https://github.com/topics/exec-ed) [![presentation](https://img.shields.io/badge/-presentation-9c27b0?style=flat-square)](https://github.com/topics/presentation) [![ai-literacy](https://img.shields.io/badge/-ai--literacy-blue?style=flat-square)](https://github.com/topics/ai-literacy) [![artificial-intelligence](https://img.shields.io/badge/-artificial--intelligence-blue?style=flat-square)](https://github.com/topics/artificial-intelligence) [![edtech](https://img.shields.io/badge/-edtech-4caf50?style=flat-square)](https://github.com/topics/edtech) [![hands-on-learning](https://img.shields.io/badge/-hands--on--learning-blue?style=flat-square)](https://github.com/topics/hands-on-learning) [![professional-development](https://img.shields.io/badge/-professional--development-blue?style=flat-square)](https://github.com/topics/professional-development) [![training](https://img.shields.io/badge/-training-blue?style=flat-square)](https://github.com/topics/training) [![workshop](https://img.shields.io/badge/-workshop-blue?style=flat-square)](https://github.com/topics/workshop) [![workplace-skills](https://img.shields.io/badge/-workplace--skills-blue?style=flat-square)](https://github.com/topics/workplace-skills)
+<!-- BADGES:END -->
+
 ## Overview
 
 **Duration:** 1 day (9:00 AM - 4:30 PM)
